@@ -59,7 +59,7 @@ Horários em **fuso horário de Brasília (BRT / UTC-3)**
 
 Feito por **Guilherme Favaron**  
 Site: [guifav.github.io](https://guifav.github.io)  
-Post original com os resultados: [[link do post quando publicar](https://www.linkedin.com/pulse/analisei-500-mil-emails-para-descobrir-quando-os-gigantes-favaron-e57gf)]
+Post original com os resultados: [[link do post no LinkedIn](https://www.linkedin.com/pulse/analisei-500-mil-emails-para-descobrir-quando-os-gigantes-favaron-e57gf)]
 
 ## Licença
 
